@@ -1,0 +1,3 @@
+Write a script which would start a given program and monitor its process. If the child process crashes, it should restart it again immediately. Your script/program should
+  * take the whole command for the child program as command line arguments
+  * should not suppress any output printed by the child process on stdout/stderr
