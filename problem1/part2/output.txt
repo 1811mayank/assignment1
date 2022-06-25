@@ -1,0 +1,9 @@
+A list of all HTTP response codes in the log and their count
+3604 200
+   3 201
+   2 301
+  38 304
+  22 401
+  72 404
+  15 422
+   6 499
